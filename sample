@@ -4,4 +4,8 @@ Hello World
 4th line
 5th line
 branch line
+<<<<<<< HEAD
 conflict line
+=======
+branch conflict line
+>>>>>>> branch1
